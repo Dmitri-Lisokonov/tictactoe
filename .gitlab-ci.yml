@@ -1,0 +1,3 @@
+include:
+  - local: '/websocket-server/.gitlab-ci.yml'
+  - local: '/tictactoe-client/.gitlab-ci.yml'
